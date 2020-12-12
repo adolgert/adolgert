@@ -1,2 +1,4 @@
-- Stochastic systems for epidemiology
+- Stochastic processes for epidemiology
 - Computational demography
+- Distributed, parallel, high-performance computing
+- Provenance systems
